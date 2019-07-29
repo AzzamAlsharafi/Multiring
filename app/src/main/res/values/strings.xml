@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Multiring</string>
+    <string name="denied_title">Permission Denied</string>
+    <string name="denied_phone_message">This app can\'t work without Phone permission, because it\'s need it to response to incoming calls.</string>
+    <string name="denied_positive_text">Request again</string>
+    <string name="denied_negative_text">Exit</string>
+    <string name="dont_ask_phone_message">The app can\'t request about the permission, but you can allow it from device settings.</string>
+    <string name="step1_text">Step 1. Find Multiring app and click it.</string>
+    <string name="step2_text">Step 2. Turn on \"Allow modify system setting\" switch.</string>
+    <string name="settings_dialog_message">This app need the permission to modify system settings,\nfollow next steps to allow it.</string>
+    <string name="settings_positive_text">OK</string>
+    <string name="settings_negative_text">Cancel</string>
+    <string name="denied_settings_message">This app can\'t work without Modify system settings permission, because it\'s need it to change the device\'s ringtone.</string>
+    <string name="ringtones_activity_label">Ringtones</string>
+    <string name="action_switch_title">Off/On</string>
+    <string name="action_settings_title">Settings</string>
+    <string name="action_clear_title">Delete All</string>
+    <string name="action_delete_title">Delete</string>
+    <string name="settings_activity_label">Settings</string>
+    <string name="silent_checkbox_key">silent_checkbox_key</string>
+    <string name="silent_checkbox_title">Silent Mode</string>
+    <string name="silent_checkbox_summary_off">Ringtone won\'t change when the phone is silent.</string>
+    <string name="silent_checkbox_summary_on">Ringtone will change when the phone is silent.</string>
+    <string name="play_button_descreption">Play</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/silent_checkbox_key"
+            android:summaryOff="@string/silent_checkbox_summary_off"
+            android:summaryOn="@string/silent_checkbox_summary_on"
+            android:title="@string/silent_checkbox_title" />
+</PreferenceScreen>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multiring</string>
+    <string name="action_clear_title">حذف الكل</string>
+    <string name="action_delete_title">حذف</string>
+    <string name="action_settings_title">الإعدادات</string>
+    <string name="action_switch_title">إيقاف/تشغيل</string>
+    <string name="denied_negative_text">خروج</string>
+    <string name="denied_phone_message">هذا البرنامج لا يستطيع العمل بدون إذن الهاتف, لأنه يحتاجه للأستجابه للمكالمات الواردة.</string>
+    <string name="denied_positive_text">طلب الإذن</string>
+    <string name="denied_settings_message">هذا البرنامج لا يستطيع العمل بدون إمكانية تعديل إعدادات النظام, لأنه يحتاجها لتغيير رنة الهاتف.</string>
+    <string name="denied_title">طلب الإذن مرفوض</string>
+    <string name="dont_ask_phone_message">التطبيق لا يستطيغ طلب الإذن, لكن يمكنك السماح له من إعدادات الجهاز.</string>
+    <string name="play_button_descreption">تشغيل</string>
+    <string name="ringtones_activity_label">الرنات</string>
+    <string name="settings_activity_label">الإعدادات</string>
+    <string name="settings_dialog_message">هذالتطبيق يحتاج الإمكانية لتعديل إعدادات النظام, اتبع الخطوات التالية للسماح بذلك.</string>
+    <string name="settings_negative_text">إلغاء</string>
+    <string name="settings_positive_text">موافق</string>
+    <string name="silent_checkbox_key">silent_checkbox_key</string>
+    <string name="silent_checkbox_summary_off">الرنة لن تتغير عندما يكون الهاتف صامتا.</string>
+    <string name="silent_checkbox_summary_on">الرنة سوف تتغير عندما يكون الهاتف صامتا.</string>
+    <string name="silent_checkbox_title">الوضع الصامت</string>
+    <string name="step1_text">الخطوة ١. جد تطبيق Multiring ثم اضغط عليه.</string>
+    <string name="step2_text">الخطوة ٢. شغل مفتاح \"السماح بتعديل إعدادات النظام\".</string>
+</resources>
